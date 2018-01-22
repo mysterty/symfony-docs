@@ -1,13 +1,15 @@
 Using Bootstrap CSS & JS
 ========================
 
-Want to use Bootstrap (or something similar) in your project? No problem!
+Want to use Bootstrap 3 (or something similar) in your project? No problem!
 First, install it. To be able to customize things further, we'll install
 ``bootstrap-sass``:
 
 .. code-block:: terminal
 
     $ yarn add bootstrap-sass --dev
+
+For specific version, like Bootstrap 4, run ``yarn add bootstrap-sass@4.0.0 --dev``.
 
 Importing Bootstrap Sass
 ------------------------
